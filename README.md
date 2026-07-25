@@ -154,7 +154,7 @@ If you find something useful, feel free to ⭐ star this repository.
 **Minhajul Islam**  
 CSE Student, Jagannath University
 
-GitHub: *Add your GitHub profile link here*
+GitHub: *https://github.com/Minhajul43*
 
 ---
 
