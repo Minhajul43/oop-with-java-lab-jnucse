@@ -1,7 +1,7 @@
 public class Tester2 {
    public static void main(String[] args) {
       Address ad= new Address(10, "Dhaka", "Dhaka", "Bangladesh");
-      Student st= new Student(1, "Akash", ad);
+      Student st= new Student(43, "Minhajul Islam", ad);
       System.out.println("Roll no: "+ st.rno);
       System.out.println("Name: "+ st.stName);
       System.out.println("Street: "+ st.stAddr.strNum);
