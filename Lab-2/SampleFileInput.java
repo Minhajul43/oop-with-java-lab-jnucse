@@ -1,11 +1,11 @@
 import java.io.*; //java is the main Java library. io is Input/Output package. * is to import all classes inside the package
 import java.util.*; //util is utility package
-public class sampleFileInput{
+public class SampleFileInput{
   public static void main (String [] args){
      String [] splitA; 
     try{
        //For windows 
-  //File f = new File("C:\\Users\\Test\\input.txt");
+  File f = new File("C:\\Users\\Test\\input.txt");
         
   //File f = new File("/home/input2.txt"); //For Linux
 
